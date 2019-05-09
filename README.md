@@ -26,3 +26,7 @@ just extract it and run "SFMLInstall.bat" as administrator (extraction path must
 | Arrow keys    | Movement      |
 | B             | Place bomb    |
 | Space         | Restart level |
+
+## Custom Level
+
+You can make your own custom level using [Bomberman Level Editor](https://github.com/almog01/Bomberman-Level-Editor)
